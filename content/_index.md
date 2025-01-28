@@ -83,7 +83,13 @@ sections:
           location: Dhaka, Bangladesh
           date_start: '2019-05-21'
           date_end: '2019-02-05'
-
+        - title: Lecturer
+          company: German University Bangladesh (GUB) 
+          company_url: 'https://www.gub.edu.bd/'
+          company_logo: gub
+          location: Gazipur, Bangladesh
+          date_start: '2019-02-20'
+          date_end: '2019-05-20'
 
     design:
       columns: '2'
