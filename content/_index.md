@@ -322,8 +322,8 @@ sections:
       # text: |-
       #   You can directly mail me.
       # Contact (add or remove contact options as necessary)
-      email: alaminbiswas.cse@gmail.com
-      phone: +880 17 4007 1456
+      email: nooralam.cou@gmail.com
+      phone: +880 1680-979489
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
