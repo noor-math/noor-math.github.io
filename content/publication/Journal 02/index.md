@@ -1,5 +1,5 @@
 ---
-title: 'Transient MHD Radiative Fluid Flow over an Inclined Porous Plate with Thermal and Mass Diffusion: An EFDM Numerical Approach'
+title: 'Exploration of soliton structures in the Hirota–Maccari system with stability analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
