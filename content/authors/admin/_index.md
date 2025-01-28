@@ -99,9 +99,10 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon_logo: googlescholar
-    icon_pack: fas
-    link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
+  - [[params.social]]
+	icon = "googlescholar"
+	icon_pack = "fas"
+	link = "https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ"
   - icon: github
     icon_pack: fab
     link: https://github.com/noor-alam
