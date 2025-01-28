@@ -100,7 +100,7 @@ social:
   #   display:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: googlescholar
+    icon_logo: googlescholar
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
   - icon: github
     icon_pack: fab
