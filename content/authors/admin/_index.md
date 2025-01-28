@@ -119,6 +119,12 @@ social:
 highlight_name: true
 ---
 
-I received my Bachelor of Science (B.Sc.) and Master of Science (M.S.) degrees from the Department of Computer Science and Engineering (CSE), Jahangirnagar University (JU), Dhaka, Bangladesh. I am currently working as a Lecturer in the department of Computer Science and Engineering at Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj, Bangladesh. Before joining BSMRU, I worked as a Lecturer (Senior Scale) in the Computer Science and Engineering Department, Daffodil International University (DIU), Dhaka. I published a significant number of research papers in international conferences and journals with more than 790 citations (According to Google Scholar).  My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
+I am an accomplished academic and researcher specializing in Mathematics. I earned both my Bachelor of Science and Master of Science degrees in Mathematics from Comilla University, Cumilla, Bangladesh, where I excelled academically and ranked at the top of my class. Currently, I serve as a Lecturer in the Department of Mathematics at Bangabandhu Sheikh Mujibur Rahman University (BSMRU), Kishoreganj, Bangladesh.
+
+I bring a diverse teaching background, having held positions at Dhaka Commerce College, Primeasia University, and German University Bangladesh. My passion for education is matched by my dedication to research in Applied Mathematics, Fluid Dynamics, Mathematical Physics, Partial Differential Equations, and Data Science. My work has been published in prestigious international journals, reflecting my contributions to solving complex mathematical problems and advancing the field.
+
+Beyond academics, I am committed to inspiring the next generation of mathematicians. As the Chief Advisor of the Pie Club at BSMRU, I mentor students and prepare them for competitive events like the Math Olympiad. My academic excellence has been recognized through several honors, including the NST Fellowship and university scholarships.
+
+With a strong foundation in both teaching and research, I continue to make meaningful contributions to the field of mathematics and education.
 
 {style="text-align: justify;"}
