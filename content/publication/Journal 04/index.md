@@ -1,67 +1,59 @@
 ---
-title: 'Data Privacy and Security Analysis for Mental Health Chatbot Applications'
+title: 'Novel dynamics of the fractional KFG equation through the unified and unified solver schemes with stability and multistability analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Md. Sabab Zulfiker
-  - Md. Mahfujur Rahman
-  - Md. Rafsan Jani
-  - Md. Musfique Anwar 
+  - Mohammad Safi Ullah
+  - Taher A. Nofal
+  - Hamdy M. Ahmed
+  - Karim K. Ahmed
+  - Mahmoud A. AL-Nahhas
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-01-06T00:00:00Z'
-doi: ''
+date: '2024-10-19T00:00:00Z'
+doi: 'https://doi.org/10.1515/nleng-2024-0034'
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2025-01-08T00:00:00Z'
+# publishDate: '2024-10-19T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025) 
-publication_short: In proceedings of the 20th IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)
+publication: Nonlinear Engineering, De Gruyter, October 2024
+publication_short: Nonlinear Engineering, De Gruyter, October 2024
 
-abstract: Due to the rapid advancement of technology, people nowadays consider chatbot-based mobile applications as a vital resource to get various mental and emotional support. ...Please click pdf option to read more.
-# Summary. An optional shortened abstract.
-summary:  This paper analyzed 10 notable apps collected from the Google Play Store, examining their functionalities, data safety policies and required permissions to assess whether user data privacy is adequately protected. We also performed some security test and found several vulnerabilities and discrepancies.
-
-tags:
-  - Human-Computer Interaction
-  - Privacy and Security
-
-# Display this page in the Featured widget?
-featured: true
+abstract: In this research, the modified extended tanh-function (METF) and the extended Jacobi elliptic function expansion (EJEFE) techniques are used to investigate the generation and detection of soliton structures in the Hirota–Maccari (HM) model. Consequently, we obtain soliton solutions with advanced structures, including singular bright soliton, dark soliton, periodic waves, breather waves, periodic breather waves, and multiple bright and dark breather waves. In addition, a lump-type breather wave is also included in the presented solutions. Stability analysis of the obtained solutions is addressed by employing the Hamiltonian technique. 3D surfaces and 2D visuals of the outcomes are represented with the help of a computer application. These findings contribute to understanding nonlinear wave phenomena with potential applications in optics, fluid dynamics, and plasma physics.
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-# url_code: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
-# url_dataset: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
+url_pdf: 'https://www.worldscientific.com/doi/abs/10.1142/S0217984924504815'
+# url_code: 'https://figshare.com/s/0ffda320dcb96c249ef2'
+# url_dataset: 'https://figshare.com/s/0ffda320dcb96c249ef2'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
-# url_source: 'https://link.springer.com/chapter/10.1007/978-3-031-27409-1_15'
+# url_source: 'https://www.sciencedirect.com/science/article/pii/S2590005622000534'
 # url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Adopted methodology for conference paper review classification'
-#  focal_point: ''
-#  preview_only: false
+image:
+  caption: 'Implementation procedures for predicting the polarity of the statements'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -69,7 +61,7 @@ url_pdf: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
- - MH_Chatbots
+  - covid_sentiment
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
