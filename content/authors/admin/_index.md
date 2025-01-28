@@ -16,34 +16,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Lecturer at Computer Science and Engineering
+role: Lecturer of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj 
-    url: https://cse.bsmru.ac.bd/viewprofile/2
+    url: https://math.bsmru.ac.bd/viewprofile/4
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Machine Learning, Deep Learning, Natural Language Processing, AI in Healthcare, Health Informatics, and Human-Computer Interaction.
+bio: My research interests include Nonlinear Dynamics, Time Fractional PDEs, Soliton Theory, Plasma Physics, Computational Fluid Dynamics, and Data Science.
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Deep Learning
-  - Natural Language Processing
-  - AI in Healthcare
-  - Health Informatics
-  - Human-Computer Interaction
+  - Nonlinear Dynamics
+  - Time Fractional PDEs
+  - Soliton Theory
+  - Plasma Physics
+  - Computational Fluid Dynamics
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science and Engineering
-      institution: Jahangirnagar University, Dhaka, Bangladesh
-      year: 2019
-    - course: B.Sc. in Computer Science and Engineering
-      institution: Jahangirnagar University, Dhaka, Bangladesh
+    - course: M.S. in Mathematics
+      institution: Comilla University, Cumilla, Bangladesh
       year: 2018
+    - course: B.Sc. in Mathematics
+      institution: Comilla University, Cumilla, Bangladesh
+      year: 2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
