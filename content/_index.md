@@ -64,32 +64,25 @@ sections:
       items:
         - title: Lecturer
           company: Bangabandhu Sheikh Mujibur Rahman University (BSMRU)
-          company_url: 'https://math.bsmru.ac.bd/viewprofile/4'
+          company_url: 'https://cse.bsmru.ac.bd/viewprofile/2'
           company_logo: bsmru
           location: Kishoreganj, Bangladesh
-          date_start: '2023-10-18'
+          date_start: '2023-02-05'
           date_end: ''
-        - title: Lecturer
-          company: Dhaka Commerce College (DCC)
-          company_url: 'https://www.dcc.edu.bd/'
-          company_logo: dcc
+        - title: Senior Lecturer
+          company: Daffodil International University (DIU)
+          company_url: 'https://daffodilvarsity.edu.bd/'
+          company_logo: diu
           location: Dhaka, Bangladesh
-          date_start: '2022-03-01'
-          date_end: '2023-10-14'
+          date_start: '2022-01-01'
+          date_end: '2023-01-31'
         - title: Lecturer
-          company: Primeasia University (PAU) 
-          company_url: 'https://www.primeasia.edu.bd/'
-          company_logo: pau
+          company: Daffodil International University (DIU)
+          company_url: 'https://daffodilvarsity.edu.bd/'
+          company_logo: diu
           location: Dhaka, Bangladesh
-          date_start: '2019-05-21'
-          date_end: '2019-02-05'
-        - title: Lecturer
-          company: German University Bangladesh (GUB) 
-          company_url: 'https://www.gub.edu.bd/'
-          company_logo: gub
-          location: Gazipur, Bangladesh
-          date_start: '2019-02-20'
-          date_end: '2019-05-20'
+          date_start: '2018-09-05'
+          date_end: '2021-12-31'
 
     design:
       columns: '2'
@@ -343,8 +336,8 @@ sections:
       contact_links:
         - icon: facebook
           icon_pack: fab
-          name: Noor Alam
-          link: 'https://web.facebook.com/noorcou06'
+          name: Al Amin Biswas
+          link: 'https://web.facebook.com/aab42'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me
