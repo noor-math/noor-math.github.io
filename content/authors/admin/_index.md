@@ -99,12 +99,12 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/noor-alam
+    link: https://github.com/noor-math
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/noor-alam-885591155/
