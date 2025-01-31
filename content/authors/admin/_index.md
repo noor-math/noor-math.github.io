@@ -93,7 +93,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: [![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)]
+  - icon: google-scholar
+    icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
  # - icon: globe  # Scopus ID using a globe icon
  #   icon_pack: fas
