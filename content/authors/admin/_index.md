@@ -92,25 +92,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'  
- # - icon: globe  # Scopus ID using a globe icon
- #   icon_pack: fas
- #  link: https://www.scopus.com/authid/detail.uri?authorId=57537298600
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0009-0000-0411-7087
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/noor-math
-  - icon: twitter
-    icon_pack: fab
-    link: 
+    link: '/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
   #   label: Follow me on Twitter
   #   display:
   #     header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=JiaLPHwAAAAJ&hl=en&oi=ao
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/aabiswas
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/noor-alam-885591155/
+    link: https://www.linkedin.com/in/aabiswas/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
