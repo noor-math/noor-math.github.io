@@ -94,7 +94,7 @@ social:
     icon_pack: fas
     link: '/#contact'  
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
  # - icon: globe  # Scopus ID using a globe icon
  #   icon_pack: fas
