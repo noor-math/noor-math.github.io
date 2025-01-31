@@ -93,9 +93,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'  
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
  # - icon: globe  # Scopus ID using a globe icon
  #   icon_pack: fas
  #  link: https://www.scopus.com/authid/detail.uri?authorId=57537298600
@@ -107,7 +104,7 @@ social:
     link: https://github.com/noor-math
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   #   label: Follow me on Twitter
   #   display:
   #     header: true
