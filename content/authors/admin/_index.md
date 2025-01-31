@@ -92,7 +92,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '/#contact'  
   - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
