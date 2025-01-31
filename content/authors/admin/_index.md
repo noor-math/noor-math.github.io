@@ -93,10 +93,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
-[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)](https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ)
+  - icon: google-scholar
+    icon_pack: ai
+    link: [![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg)](https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ)
  # - icon: globe  # Scopus ID using a globe icon
  #   icon_pack: fas
  #  link: https://www.scopus.com/authid/detail.uri?authorId=57537298600
