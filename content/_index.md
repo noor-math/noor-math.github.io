@@ -118,13 +118,13 @@ sections:
               
               <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
               <span style="font-size: 1.5em;">Chief Advisor</span>
-              * <strong>ICPC'24</strong>: Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj, Bangladesh.
+              * Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj, Bangladesh.
 
               <span style="font-size: 1.5em;">Mentor</span>
-              * <strong>ICCCI'21</strong>: Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka, Bangladesh.
+              * Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka, Bangladesh.
 
               <span style="font-size: 1.5em;">Executive Member</span>
-              * <strong>MIDAS'21</strong>: Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
+              * Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
  
               <span style="font-size: 1.5em;">Journal Reviewer</span>
               * <strong>IEEE Access</strong>: Served as a reviewer for IEEE Access.
