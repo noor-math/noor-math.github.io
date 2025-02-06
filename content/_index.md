@@ -129,7 +129,7 @@ sections:
               * Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
               
               <span style="font-size: 1.5em;">Journal Reviewer</span>
-              * <strong>Heliyon/: Served as a reviewer for Heliyon, Elsevier journal.
+              * <strong>Heliyon</strong>: Served as a reviewer for Heliyon, Elsevier journal.
               * <strong>International Journal of Modern Physics B</strong>: Served as a reviewer for International Journal of Modern Physics B, World Scientific.
               * <strong>Physics Open</strong>: Served as a reviewer for Current Research in Physics Open, Elsevier journal.
 
