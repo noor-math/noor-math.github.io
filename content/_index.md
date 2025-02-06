@@ -118,7 +118,6 @@ sections:
 
               
               <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
-
               <span style="font-size: 1.5em;">Chief Advisor</span>
               * Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj.
 
