@@ -110,28 +110,23 @@ sections:
         - date_end: '2024-12-31'
           date_start: '2013-01-26'
           description: |2-
-              <span style="font-size: 1.5em;">**Research Awards:**</span>
-              * Received best paper award from the Third International Conference on Smart Systems: Innovations in Computing (SSIC), Springer, 2021.
-              * Received best paper award from the International Conference on Machine Intelligence and Data Science Applications (MIDAS), Springer, 2021.
 
               <span style="font-size: 1.5em;">**Scholarships:**</span>
+              * Awarded to facilitate the M.Sc. dissertation from the Ministry of Science and Technology of Bangladesh.
               * Received university yearly scholarship for outstanding results.
               * Received scholarship for achieving the top position in the undergraduate entrance exam.
+
               
               <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
-              <span style="font-size: 1.5em;">Coach</span>
-              * <strong>ICPC'24</strong>: Coached BSMRU Team at the International Collegiate Programming Contest (ICPC) Asia Dhaka Regional 2024.
-              * <strong>NCPC'23</strong>: Coached BSMRU Team at the National Collegiate Programming Contest (NCPC), Bangladesh, 2023.
+              <span style="font-size: 1.5em;">Chief Advisor</span>
+              * <strong>ICPC'24</strong>: Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj.
 
-              <span style="font-size: 1.5em;">Session Chair</span>
-              * <strong>ICCCI'21</strong>: Served as a session chair for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
+              <span style="font-size: 1.5em;">Mentor</span>
+              * <strong>ICCCI'21</strong>: Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka, Bangladesh.
 
-              <span style="font-size: 1.5em;">Co-convener</span>
-              * <strong>MIDAS'21</strong>: Served as co-convener for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
+              <span style="font-size: 1.5em;">Executive Member</span>
+              * <strong>MIDAS'21</strong>: Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
               
-              <span style="font-size: 1.5em;">Judge</span>
-              * <strong>IC4IR'21</strong>: Served as a judge for the Mujib 100 Idea Contest 2021, organized by the University Grants Commission (UGC) of Bangladesh, as part of the 4th Industrial Revolution and Beyond (IC4IR 2021) conference.
- 
               <span style="font-size: 1.5em;">Journal Reviewer</span>
               * <strong>IEEE Access</strong>: Served as a reviewer for IEEE Access.
               * <strong>International Journal of Human-Computer Studies</strong>: Served as a reviewer for International Journal of Human-Computer Studies, Elsevier journal.
