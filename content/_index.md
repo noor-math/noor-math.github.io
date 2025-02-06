@@ -110,28 +110,60 @@ sections:
         - date_end: 'Present'
           date_start: '2012-01-15'
           description: |2-
+              <span style="font-size: 1.5em;">**Research Awards:**</span>
+              * Received best paper award from the Third International Conference on Smart Systems: Innovations in Computing (SSIC), Springer, 2021.
+              * Received best paper award from the International Conference on Machine Intelligence and Data Science Applications (MIDAS), Springer, 2021.
 
               <span style="font-size: 1.5em;">**Scholarships:**</span>
-              * Awarded to facilitate the M.Sc. dissertation from the Ministry of Science and Technology of Bangladesh.
               * Received university yearly scholarship for outstanding results.
               * Received scholarship for achieving the top position in the undergraduate entrance exam.
-
               
               <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
+              <span style="font-size: 1.5em;">Coach</span>
+              * <strong>ICPC'24</strong>: Coached BSMRU Team at the International Collegiate Programming Contest (ICPC) Asia Dhaka Regional 2024.
+              * <strong>NCPC'23</strong>: Coached BSMRU Team at the National Collegiate Programming Contest (NCPC), Bangladesh, 2023.
 
-              <span style="font-size: 1.5em;">Chief Advisor</span>
-              * Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj.
+              <span style="font-size: 1.5em;">Session Chair</span>
+              * <strong>ICCCI'21</strong>: Served as a session chair for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
 
-              <span style="font-size: 1.5em;">Mentor</span>
-              * Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka, Bangladesh.
-
-              <span style="font-size: 1.5em;">Executive Member</span>
-              * Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
+              <span style="font-size: 1.5em;">Co-convener</span>
+              * <strong>MIDAS'21</strong>: Served as co-convener for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
               
+              <span style="font-size: 1.5em;">Judge</span>
+              * <strong>IC4IR'21</strong>: Served as a judge for the Mujib 100 Idea Contest 2021, organized by the University Grants Commission (UGC) of Bangladesh, as part of the 4th Industrial Revolution and Beyond (IC4IR 2021) conference.
+ 
               <span style="font-size: 1.5em;">Journal Reviewer</span>
+              * <strong>IEEE Access</strong>: Served as a reviewer for IEEE Access.
+              * <strong>International Journal of Human-Computer Studies</strong>: Served as a reviewer for International Journal of Human-Computer Studies, Elsevier journal.
+              * <strong>Computers and Programs in Biomedicine</strong>: Served as a reviewer for Computers and Programs in Biomedicine, Elsevier journal.
+              * <strong>Computer Methods and Programs in Biomedicine Update</strong>: Served as a reviewer for Computer Methods and Programs in Biomedicine Update, Elsevier journal.
+              * <strong>Computers and Electronics in Agriculture</strong>: Served as a reviewer for Computers and Electronics in Agriculture, Elsevier journal.
+              * <strong>Computers in Biology and Medicine</strong>: Served as a reviewer for Computers in Biology and Medicine, Elsevier journal.
+              * <strong>Array</strong>: Served as a reviewer for Array, Elsevier journal.
               * <strong>Heliyon</strong>: Served as a reviewer for Heliyon, Elsevier journal.
-              * <strong>International Journal of Modern Physics B</strong>: Served as a reviewer for International Journal of Modern Physics B, World Scientific.
-              * <strong>Physics Open</strong>: Served as a reviewer for Current Research in Physics Open, Elsevier journal.
+              * <strong>Healthcare Analytics</strong>: Served as a reviewer for Healthcare Analytics, Elsevier journal.
+              * <strong>CRBS</strong>: Served as a reviewer for Current Research in Behavioral Sciences (CRBS), Elsevier journal.
+              * <strong>Applied Nursing Research</strong>: Served as a reviewer for Applied Nursing Research, Elsevier journal.
+              * <strong>Machine Learning with Applications</strong>: Served as a reviewer for Machine Learning with Applications, Elsevier journal.
+              * <strong>SSHO</strong>: Served as a reviewer for Social Sciences & Humanities Open (SSHO), Elsevier journal.
+              * <strong>Cogent Engineering</strong>: Served as a reviewer for Cogent Engineering, Taylor & Francis journal.
+              * <strong>CMBBE</strong>: Served as a reviewer for Computer Methods in Biomechanics and Biomedical Engineering (CMBBE), Taylor & Francis journal.
+              * <strong> International Journal of Digital Earth</strong>: Served as a reviewer for  International Journal of Digital Earth, Taylor & Francis journal.
+              * <strong>BEEI</strong>: Served as a reviewer for Bulletin of Electrical Engineering and Informatics (BEEI), published by the Institute of Advanced Engineering and Science, Indonesia. 
+              * <strong>APST</strong>: Served as a reviewer for Asia-Pacific Journal of Science and Technology (APST), Division of Research Administration, Khon Kaen University, Thailand.
+
+              <span style="font-size: 1.5em;">Conference Reviewer</span>
+              * <strong>CHI'25</strong>: Served as a reviewer for the 42nd ACM CHI Conference on Human Factors in Computing Systems, Yokohama, Japan (Rank: A*). [<strong>Flagship conference in the field of Human-Computer Interaction</strong>] 
+              * <strong>HRI'25</strong>: Served as a reviewer for the 20th IEEE/ACM International Conference on Human-Robot Interaction, Melbourne, Australia (Rank: A). [<strong>Flagship conference in the field of Human-Robot Interaction</strong>]
+              * <strong>MIET'24</strong>: Served as a reviewer for the 2nd International Conference on Machine Intelligence and Emerging Technologies, Springer, Noakhali Science and Technology University (NSTU), Bangladesh.
+              * <strong>EISBG'24</strong>: Served as a reviewer for the International Conference on Embracing Industry 4.0 for Sustainable Business Growth, Noakhali Science and Technology University (NSTU), Noakhali, Bangladesh.
+              * <strong>CSAE'22</strong>: Served as a reviewer for the 6th International Conference on Computer Science and Application Engineering, ACM International Conference Proceedings Series, Nanjing, China.
+              * <strong>ICSCT'21</strong>: Served as a reviewer for the International Conference on Science & Contemporary Technologies, IEEE, Bangladesh University of Business and Technology (BUBT), Dhaka, Bangladesh.
+              * <strong>ICCCI'21</strong>: Served as a reviewer for the 2021 International Conference on Computer Communication and Informatics, IEEE, Sri Shakthi Institute of Engineering and Technology (SIET), India.
+              * <strong>MIDAS'21</strong>: Served as reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
+
+              <span style="font-size: 1.5em;">Speaker</span>
+              * <strong>Lead Speaker</strong>, "Application of Artificial Intelligence and Technology in Education and Research", BSMRU, Kishoreganj, Bangladesh, December, 2023.
 
           url: ''
       
@@ -161,7 +193,7 @@ sections:
         - name: Natural Language Processing
           tag: Natural Language Processing
         - name: Healthcare
-          tag: Healthcare      
+          tag: Healthcare
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
