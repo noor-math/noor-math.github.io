@@ -107,7 +107,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: 'Present'
+        - date_end: '2025-01-31'
           date_start: '2012-01-15'
           description: |2-
 
