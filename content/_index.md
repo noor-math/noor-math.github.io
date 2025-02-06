@@ -107,8 +107,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_end: '2024-12-31'
-          date_start: '2013-01-26'
+        - date_end: 'Present'
+          date_start: '2012-01-15'
           description: |2-
 
               <span style="font-size: 1.5em;">**Scholarships:**</span>
@@ -118,17 +118,18 @@ sections:
 
               
               <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
+
               <span style="font-size: 1.5em;">Chief Advisor</span>
-              * <strong>: Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj.
+              * Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj.
 
               <span style="font-size: 1.5em;">Mentor</span>
-              * <strong>: Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka, Bangladesh.
+              * Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka, Bangladesh.
 
               <span style="font-size: 1.5em;">Executive Member</span>
-              * <strong>: Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
+              * Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
               
               <span style="font-size: 1.5em;">Journal Reviewer</span>
-              * <strong>Heliyon</strong>: Served as a reviewer for Heliyon, Elsevier journal.
+              * <strong>Heliyon/: Served as a reviewer for Heliyon, Elsevier journal.
               * <strong>International Journal of Modern Physics B</strong>: Served as a reviewer for International Journal of Modern Physics B, World Scientific.
               * <strong>Physics Open</strong>: Served as a reviewer for Current Research in Physics Open, Elsevier journal.
 
