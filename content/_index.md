@@ -133,33 +133,34 @@ sections:
 
           url: ''
       
-    design:
-      columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
+#    design:
+#      columns: '2'
+#  - block: portfolio
+#    id: projects
+#    content:
+#      title: Projects
+#      filters:
+#        folders:
+#          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+#      default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Machine Learning
-          tag: Machine Learning
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Natural Language Processing
-          tag: Natural Language Processing
-        - name: Healthcare
-          tag: Healthcare
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Machine Learning
+#          tag: Machine Learning
+#        - name: Deep Learning
+#          tag: Deep Learning
+#        - name: Natural Language Processing
+#          tag: Natural Language Processing
+#        - name: Healthcare
+#          tag: Healthcare
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
