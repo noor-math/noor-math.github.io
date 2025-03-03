@@ -1,24 +1,22 @@
 ---
-title: 'Sunflower Diseases Recognition Using Computer Vision-Based Approach'
+title: 'Dynamic waveforms of the new Hamiltonian amplitude model using three different analytic techniques'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Aditya Rajbongshi
   - admin
-  - Jahanur Biswas
-  - Rashiduzzaman Shakil
-  - Bonna Akter
-  - Mala Rani Barman  
+  - Ali Akbar
+  - Mohammad Safi Ullah
+  - Md Mostafa
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-12-22T00:00:00Z'
-doi: 'https://doi.org/10.1109/R10-HTC53172.2021.9641588'
+date: '2024-09-26T00:00:00Z'
+doi: 'https://doi.org/10.1007/s12648-024-03426-7'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -26,30 +24,30 @@ doi: 'https://doi.org/10.1109/R10-HTC53172.2021.9641588'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In proceedings of the IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC 2021), IEEE, 2021
-publication_short: In proceedings of the IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC 2021), IEEE, 2021
+publication: Indian Journal of Physics, Springer, September, 2024
+publication_short: Indian Journal of Physics, Springer, September, 2024
 
-abstract: Sunflower (Helianthus annuus) is a plant categorized as a low to medium drought-sensitive crop. It adds a significant value to the agricultural-based economy. But nowadays worldwide sunflower production is in crisis due to its many diseases. But if proper action is not adopted earlier, many serious diseases will have affect plants. Consequently, it will reduce the productivity, quantity, and quality of sunflower. Manual identification of disease is a very tedious task or perhaps impossible at times. Nowadays, computer vision-based technique has gained its popularity in the field of object recognition. In this paper, we proposed an approach for sunflower disease recognition. A total of 650 images were used to accomplish this work. The image data processing techniques such as resizing, contrast, and color enhancement have also been used. We have used k-means clustering for segmenting the diseases affected region and then extracted features from the segmented images. The classification has performed using five classifiers. We calculated the seven performance evaluation metrics for the performance measurement of each classifier. The highest average accuracy of 90.68% has been obtained for the Random Forest classifier that outperformed others.
+abstract: This manuscript explores the dynamic patterns of the new Hamiltonian amplitude (nHA) model...
 
 # Summary. An optional shortened abstract.
 summary:  This paper proposed an approach for sunflower disease recognition. The highest average accuracy of 90.68% has been obtained for the Random Forest classifier.
 
 
 tags:
-  - Machine Learning
+  - The new Hamiltonian amplitude
 
 # Display this page in the Featured widget?
-featured: true
+#featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9641588'
+url_pdf: 'https://link.springer.com/article/10.1007/s12648-024-03426-7'
 # url_code: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_dataset: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_poster: ''
@@ -60,18 +58,18 @@ url_pdf: 'https://ieeexplore.ieee.org/document/9641588'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Working flow to recognize sunflower diseases'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Working flow to recognize sunflower diseases'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
- - sunflower_disease
+#projects:
+# - sunflower_disease
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
