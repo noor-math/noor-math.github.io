@@ -1,20 +1,23 @@
 ---
-title: 'A comprehensive review of explainable AI for disease diagnosis'
+title: 'Exploration of soliton structures in the Hirota–Maccari system with stability analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-
+  - Wen-Xiu Ma
+  - Mohammad Safi Ullah
+  - Aly R Seadawy
+  - Mahinur Akter
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-04-26T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.array.2024.100345'
+date: '2024-07-20T00:00:00Z'
+doi: 'https://doi.org/10.1142/S0217984924504815'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -25,16 +28,16 @@ doi: 'https://doi.org/10.1016/j.array.2024.100345'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Array, Elsevier, July, 2024
-publication_short: Array, Elsevier, July, 2024
+publication: Modern Physics Letters B, World Scientific Publishing Company, July, 2024
+publication_short: Modern Physics Letters B, World Scientific, July, 2024
 
-abstract: Nowadays, artificial intelligence (AI) has been utilized in several domains of the healthcare sector. Despite its effectiveness in healthcare settings, its massive adoption remains limited due to the transparency issue, which is considered a significant obstacle. To achieve the trust of end users, it is necessary to explain the AI models' output. Therefore, explainable AI (XAI) has become apparent as a potential solution by providing transparent explanations of the AI models' output. In this review paper, the primary aim is to review articles that are mainly related to machine learning (ML) or deep learning (DL) based human disease diagnoses, and the model's decision-making process is explained by XAI techniques. To do that, two journal databases (Scopus and the IEEE Xplore Digital Library) were thoroughly searched using a few predetermined relevant keywords. The PRISMA guidelines have been followed to determine the papers for the final analysis, where studies that did not meet the requirements were eliminated. Finally, 90 Q1 journal articles are selected for in-depth analysis, covering several XAI techniques. Then, the summarization of the several findings has been presented, and appropriate responses to the proposed research questions have been outlined. In addition, several challenges related to XAI in the case of human disease diagnosis and future research directions in this sector are presented.
+abstract: In this research, the modified extended tanh-function (METF) and the extended...
 
 # Summary. An optional shortened abstract.
 summary: This review article mainly analyzes several research articles that are mainly related to machine learning (ML) or deep learning (DL) based human disease diagnoses, and the model's decision-making process is explained by XAI techniques.
 
 tags:
-  - Explainable AI
+  - Herota-Maccari System
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2590005624000110'
+url_pdf: 'https://www.worldscientific.com/doi/abs/10.1142/S0217984924504815'
 # url_code: 'https://figshare.com/s/0ffda320dcb96c249ef2'
 # url_dataset: 'https://figshare.com/s/0ffda320dcb96c249ef2'
 # url_poster: ''
@@ -55,10 +58,10 @@ url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2590005624000110'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Paper selection process using PRISMA guidelines'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Paper selection process using PRISMA guidelines'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
