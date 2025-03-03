@@ -20,7 +20,7 @@ role: Lecturer of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj 
+  - name: Kishoreganj University, Kishoreganj, Bangladesh 
     url: https://math.bsmru.ac.bd/viewprofile/4
 
 # Short bio (displayed in user profile at end of posts)

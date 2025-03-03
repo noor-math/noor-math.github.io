@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Lecturer
-          company: Bangabandhu Sheikh Mujibur Rahman University (BSMRU)
+          company: Kishoreganj University (KiU)
           company_url: 'https://math.bsmru.ac.bd/viewprofile/4'
           company_logo: bsmru
           location: Kishoreganj, Bangladesh
