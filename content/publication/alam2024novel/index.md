@@ -1,21 +1,24 @@
 ---
-title: 'Deep Learning-Based Classification of Conference Paper Reviews: Accept or Reject?'
+title: 'Novel dynamics of the fractional KFG equation through the unified and unified solver schemes with stability and multistability analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - T. T. Prama
   - admin
-  - Md. Musfique Anwar  
+  - Mohammad Safi Ullah
+  - Taher A Nofal  
+  - Hamdy M Ahmed
+  - Karim K Ahmed
+  - Mahmoud A AL-Nahhas
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-07-23T00:00:00Z'
-doi: 'https://doi.org/10.1007/978-3-031-64776-5_7'
+date: '2024-10-19T00:00:00Z'
+doi: 'https://doi.org/10.1515/nleng-2024-0034'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -23,19 +26,19 @@ doi: 'https://doi.org/10.1007/978-3-031-64776-5_7'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In proceedings of the 23rd International Conference on Intelligent Systems Design and Applications (ISDA 2023), Springer, 2023
-publication_short: In proceedings of the 23rd International Conference on Intelligent Systems Design and Applications (ISDA 2023), Springer, 2023
+publication: Nonlinear Engineering, De Gruyter, October, 2024
+publication_short: Nonlinear Engineering, De Gruyter, October, 2024
 
-abstract: Peer review plays a crucial role...Please click pdf option to read more.
+abstract: The nonlinear fractional Klein–Fock–Gordon (KFG) equation represents an advanced...
 # Summary. An optional shortened abstract.
-summary:  This paper proposed an automated classification system for paper reviews. Here, the Bi-GRU-LSTM-CNN model attained the highest accuracy of 95.33%.
+# summary:  This paper proposed an automated classification system for paper reviews. Here, the Bi-GRU-LSTM-CNN model attained the highest accuracy of 95.33%.
 
 tags:
-  - Deep Learning
-  - Natural Language Processing
+  - Fractional KFG Equation
+  - Unified and Unified Solver Methods
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-64776-5_7'
+url_pdf: 'https://www.degruyter.com/document/doi/10.1515/nleng-2024-0034/html'
 # url_code: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_dataset: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_poster: ''
