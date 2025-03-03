@@ -40,7 +40,7 @@ tags:
   - The new Hamiltonian amplitude
 
 # Display this page in the Featured widget?
-#featured: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -58,10 +58,10 @@ url_pdf: 'https://link.springer.com/article/10.1007/s12648-024-03426-7'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-#  caption: 'Working flow to recognize sunflower diseases'
-#  focal_point: ''
-#  preview_only: false
+image:
+  caption: 'Working flow to recognize sunflower diseases'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
