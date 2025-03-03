@@ -1,26 +1,26 @@
 ---
-title: 'Transient MHD Radiative Fluid Flow over an Inclined Porous Plate with Thermal and Mass Diffusion: An EFDM Numerical Approach'
+title: 'Analyzing the Public Sentiment on COVID-19 Vaccination in Social Media: Bangladesh Context'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Md. Sabab Zulfiker
+  - Nasrin Kabir
   - admin
-  - Saykat Poddar
-  - M Enamul Karim
-  - Mohammad Sanjeed Hasan
-  - Giulio Lorenzini
+  - Sunjare Zulfiker
+  - Mohammad Shorif Uddin
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-09-27T00:00:00Z'
-doi: 'https://doi.org/10.18280/mmep.080508'
+date: '2022-06-12T00:00:00Z'
+doi: 'https://doi.org/10.1016/j.array.2022.100204'
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2021-10-31T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,17 +28,26 @@ doi: 'https://doi.org/10.18280/mmep.080508'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Mathematical Modelling of Engineering Problems, International Information and Engineering Technology Association, September, 2021
-publication_short: Mathematical Modelling of Engineering Problems, IIETA, September 2021
+publication: Array, Elsevier, June, 2022
+publication_short: Array, Elsevier, June, 2022
 
-abstract: This research aims to delve into the transient MHD flow over a porous plate having an inclination, with heat and mass diffusion by taking the radiative phenomenon into consideration. The flow controlling equations of continuity, momentum, energy, and concentration are developed using the boundary layer approximations. The radiative flux is described using a differential approximation. The governing time-dependent equations are brought into a conversion to create a system of non-dimensional partial differential equations (PDEs). Numerical schemes approaching the explicit finite difference method (EFDM) are employed to discretize and reckon the equations in dimensional agreement. Stability and convergence checking are prepared to ensure the converging restrictions of pertinent parameters. The profiles of velocity, concentration, and temperature have been illustrated graphically and discussed comprehensively.
+abstract: Since December 2019, the world has been fighting against the COVID-19 pandemic. This epidemic has revealed a bitter truth that though humans have advanced to unprecedented heights in the last few decades in terms of technology, they are lagging far behind in the fields of medical science and health care. Several institutes and research organizations have stepped up to introduce different vaccines to combat the pandemic. Bangladesh government has also taken steps to provide widespread vaccinations from January 2021. The Bangladeshi netizens are frequently sharing their thoughts, emotions, and experiences about the COVID-19 vaccines and the vaccination process on different social media sites like Facebook, Twitter, etc. This study has analyzed the views and opinions that they have expressed on different social media platforms about the vaccines and the ongoing vaccination program. For performing this study, the reactions of the Bangladeshi netizens on social media have been collected. The Latent Dirichlet Allocation (LDA) model has been used to extract the most common topics expressed by the netizens regarding the vaccines and vaccination process in Bangladesh. Finally, this study has applied different deep learning as well as traditional machine learning algorithms to identify the sentiments and polarity of the opinions of the netizens. The performance of these models has been assessed using a variety of metrics such as accuracy, precision, sensitivity, specificity, and F1-score to identify the best one. Sentiment analysis lessons from these opinions can help the government to prepare itself for the future pandemic.
+
+# Summary. An optional shortened abstract.
+summary: This study has analyzed the views and opinions that they have expressed on different social media platforms about the vaccines and the ongoing vaccination program.
+
+tags:
+  - Machine Learning
+  - Natural Language Processing
+  - Predictive Modeling
+  - Healthcare
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.iieta.org/journals/mmep/paper/10.18280/mmep.080508'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2590005622000534'
 # url_code: 'https://figshare.com/s/0ffda320dcb96c249ef2'
 # url_dataset: 'https://figshare.com/s/0ffda320dcb96c249ef2'
 # url_poster: ''
