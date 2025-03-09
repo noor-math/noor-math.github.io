@@ -41,7 +41,7 @@ abstract: The two-mode Nizhnik-Novikov-Veselov (TMNNV) equation finds wide-rangi
 
 tags:
   - Bifurcation analysis
-
+  - Two-mode Nizhnik-Novikov-Veselov Equation
 # Display this page in the Featured widget?
 featured: true
 
