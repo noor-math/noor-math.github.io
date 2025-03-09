@@ -6,18 +6,21 @@ title: 'Bifurcation analysis, chaotic behaviors, and explicit solutions for a fr
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Wen-Xiu Ma
   - Mohammad Safi Ullah
-  - Aly R Seadawy
-  - Mahinur Akter
+  - Jalil Manafian  
+  - Khaled H. Mahmoud
+  - A. SA. Alsubaie
+  - Hamdy M. Ahmed
+  - Karim K Ahmed
+  - Soliman Al Khatib
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-07-20T00:00:00Z'
-doi: 'https://doi.org/10.1142/S0217984924504815'
+date: '2025-03-03T00:00:00Z'
+doi: 'https://doi.org/10.3934/math.2025211'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -28,16 +31,17 @@ doi: 'https://doi.org/10.1142/S0217984924504815'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Modern Physics Letters B, World Scientific Publishing Company, July, 2024
-publication_short: Modern Physics Letters B, World Scientific, July, 2024
+publication: AIMS Mathematics, AIMS Press, March, 2025
+publication_short: AIMS Mathematics, AIMS Press, March, 2025
 
-abstract: In this research, the modified extended tanh-function (METF) and the extended...
+abstract: The two-mode Nizhnik-Novikov-Veselov (TMNNV) equation finds wide-ranging utility across engineering and scientific fields. It stands as a notable nonlinear physical model for explaining nonlinear soliton propagation. This study explores bifurcation analysis for the (2+1)-dimensional conformable time-fractional TMNNV model for the first time. Also, we have derived the explicit solutions of this model, and these solutions exhibit some unique dynamical patterns: combo bright-dark bell wave, periodic wave, bright soliton, and dark soliton, which are used in several optical applications. 2-D plots and combined 3-D with density plots are presented with the impacts of different parameters. Later, phase portraits and the multistability of this dynamical model are analyzed via intersecting figures with the help of the planner dynamical system. We also examine the quasi-periodic and chaotic behaviors of the governing model under different conditions. Finally, conclusions are drawn based on the results.
 
 # Summary. An optional shortened abstract.
-summary: This review article mainly analyzes several research articles that are mainly related to machine learning (ML) or deep learning (DL) based human disease diagnoses, and the model's decision-making process is explained by XAI techniques.
+# summary: This review article mainly analyzes several research articles that are mainly related to machine learning (ML) or deep learning (DL) based human disease diagnoses, and the model's decision-making process is explained by XAI techniques.
 
 tags:
-  - Herota-Maccari System
+  - Bifurcation analysis
+  - Nizhnik-Novikov-Veselov Equation
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.worldscientific.com/doi/abs/10.1142/S0217984924504815'
+url_pdf: 'https://www.aimspress.com/article/doi/10.3934/math.2025211'
 # url_code: 'https://figshare.com/s/0ffda320dcb96c249ef2'
 # url_dataset: 'https://figshare.com/s/0ffda320dcb96c249ef2'
 # url_poster: ''
