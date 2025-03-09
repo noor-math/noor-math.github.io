@@ -37,7 +37,7 @@ publication_short: AIMS Mathematics, AIMS Press, March, 2025
 abstract: The two-mode Nizhnik-Novikov-Veselov (TMNNV) equation finds wide-ranging utility across engineering and scientific fields. It stands as a notable nonlinear physical model for explaining nonlinear soliton propagation. This study explores bifurcation analysis for the (2+1)-dimensional conformable time-fractional TMNNV model for the first time. Also, we have derived the explicit solutions of this model, and these solutions exhibit some unique dynamical patterns: combo bright-dark bell wave, periodic wave, bright soliton, and dark soliton, which are used in several optical applications. 2-D plots and combined 3-D with density plots are presented with the impacts of different parameters. Later, phase portraits and the multistability of this dynamical model are analyzed via intersecting figures with the help of the planner dynamical system. We also examine the quasi-periodic and chaotic behaviors of the governing model under different conditions. Finally, conclusions are drawn based on the results.
 
 # Summary. An optional shortened abstract.
-# summary: This review article mainly analyzes several research articles that are mainly related to machine learning (ML) or deep learning (DL) based human disease diagnoses, and the model's decision-making process is explained by XAI techniques.
+ summary: This review article mainly analyzes several research articles that are mainly related to machine learning (ML) or deep learning (DL) based human disease diagnoses, and the model's decision-making process is explained by XAI techniques.
 
 tags:
   - Bifurcation analysis
