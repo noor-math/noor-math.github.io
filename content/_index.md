@@ -65,8 +65,8 @@ sections:
         - title: Lecturer
           company: Kishoreganj University (KiU)
           company_url: 'https://math.bsmru.ac.bd/viewprofile/4'
-          company_logo: bsmru
-          location: Kishoregnj, Bangladesh
+          company_logo: KiU
+          location: Kishoreganj, Bangladesh
           date_start: '2023-10-18'
           date_end: ''
         - title: Lecturer
