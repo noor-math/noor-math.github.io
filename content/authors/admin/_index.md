@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Mathematics
-      institution: "[Comilla University](https://math.kiu.ac.bd/viewprofile/4), Cumilla 3506, Bangladesh"
-      year: 2018
+    - course: M.S. in Mathematics, 2018
+      institution: Comilla University, Cumilla 3506, Bangladesh
+      url: https://math.kiu.ac.bd/viewprofile/4
     - course: B.Sc. in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
       year: 2017
