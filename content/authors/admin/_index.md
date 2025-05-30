@@ -37,8 +37,7 @@ interests:
 education:
   courses:
     - course: M.S. in Mathematics
-      institution: Comilla University, Cumilla 3506, Bangladesh
-      url: https://math.kiu.ac.bd/viewprofile/4
+      institution: "[Comilla University](https://math.kiu.ac.bd/viewprofile/4), Cumilla 3506, Bangladesh"
       year: 2018
     - course: B.Sc. in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
