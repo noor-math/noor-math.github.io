@@ -38,11 +38,11 @@ education:
   courses:
     - course: M.Sc. in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
+      institution_url: 'https://www.cou.ac.bd/'
       year: 2018
     - course: B.Sc. in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
       year: 2017
-
 # Skills
 skills:
   - name: Technical
