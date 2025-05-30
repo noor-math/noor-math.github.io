@@ -36,9 +36,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Mathematics, 2018
+    - course: M.Sc. in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
-      url: https://math.kiu.ac.bd/viewprofile/4
+      year: 2018
     - course: B.Sc. in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
       year: 2017
@@ -84,6 +84,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/noor-alam-885591155/
+  - icon: orcid
+    icon_pack: fab
+    link: 'https://orcid.org/0009-0000-0411-7087'
   - icon: github
     icon_pack: fab
     link: https://github.com/noor-math
