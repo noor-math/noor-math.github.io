@@ -43,7 +43,7 @@ tags:
   - Bifurcation analysis
   - Two-mode Nizhnik-Novikov-Veselov Equation
 # Display this page in the Featured widget?
-featured: True
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
