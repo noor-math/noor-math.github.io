@@ -92,7 +92,7 @@ social:
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
   - icon: cv
     icon_pack: ai
-    link: uploads/resume[updated: 05/2025].pdf
+    link: uploads/resume [updated 05-2025].pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
