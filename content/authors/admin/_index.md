@@ -37,10 +37,15 @@ interests:
 education:
   courses:
     - course: M.Sc. in Mathematics
-      institution: '<a href="https://www.cou.ac.bd/" target="_blank">Comilla University, Cumilla 3506, Bangladesh</a>'
+      institution:
+        name: Comilla University, Cumilla 3506, Bangladesh
+        url: https://www.cou.ac.bd/
       year: 2018
+
     - course: B.Sc. in Mathematics
-      institution: '<a href="https://www.cou.ac.bd/" target="_blank">Comilla University, Cumilla 3506, Bangladesh</a>'
+      institution:
+        name: Comilla University, Cumilla 3506, Bangladesh
+        url: https://www.cou.ac.bd/
       year: 2017
 
 # Skills
