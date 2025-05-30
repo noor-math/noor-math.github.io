@@ -91,8 +91,8 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
-  - icon: id-badge
-    icon_pack: fas
+  - icon: orcid
+    icon_pack: fab
     link: https://orcid.org/0009-0000-0411-7087
   - icon: cv
     icon_pack: ai
