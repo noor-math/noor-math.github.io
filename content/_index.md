@@ -144,7 +144,7 @@ sections:
         - icon: instagram
           icon_pack: fab
           name: Noor_inspro
-          link: 'https://web.instagram.com/noor_inspro'
+          link: 'https://www.instagram.com/noor_inspro'
     design:
       columns: '2'
 ---
