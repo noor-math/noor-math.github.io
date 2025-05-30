@@ -36,10 +36,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 'M.Sc. in Mathematics, 2018 - <a href="https://www.cou.ac.bd/" target="_blank">Comilla University</a>'
-    - course: 'B.Sc. in Mathematics, 2017 - <a href="https://www.cou.ac.bd/" target="_blank">Comilla University</a>'
-
-
+education:
+  courses:
+    - course: M.Sc. in Mathematics
+      institution: Comilla University, Cumilla 3506, Bangladesh
+      year: 2018
+    - course: B.Sc. in Mathematics
+      institution: Comilla University, Cumilla 3506, Bangladesh
+      year: 2017
 # Skills
 skills:
   - name: Technical
