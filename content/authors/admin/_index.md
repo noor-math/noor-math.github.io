@@ -94,9 +94,7 @@ social:
   icon_pack: ai
   name: "CV [Updated 05/2025]"
   link: uploads/resume.pdf
-#  - icon: CV [Updated 05/2025]
-#    icon_pack: ai
-#    link: uploads/resume.pdf
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
