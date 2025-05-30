@@ -28,28 +28,28 @@ sections:
           company: Kishoreganj University (KiU)
           company_url: 'https://math.kiu.ac.bd/viewprofile/4'
           company_logo: kiu
-          location: Kishoreganj, Bangladesh
+          location: Kishoreganj 2300, Bangladesh
           date_start: '2023-10-18'
           date_end: ''
         - title: Lecturer
           company: Dhaka Commerce College (DCC)
           company_url: 'https://www.dcc.edu.bd/'
           company_logo: dcc
-          location: Dhaka, Bangladesh
+          location: Dhaka 1216, Bangladesh
           date_start: '2022-03-01'
           date_end: '2023-10-14'
         - title: Lecturer
           company: Primeasia University (PAU) 
           company_url: 'https://www.primeasia.edu.bd/'
           company_logo: pau
-          location: Dhaka, Bangladesh
+          location: Dhaka 1213, Bangladesh
           date_start: '2019-05-21'
           date_end: '2019-02-05'
         - title: Lecturer
           company: German University Bangladesh (GUB) 
           company_url: 'https://www.gub.edu.bd/'
           company_logo: gub
-          location: Gazipur, Bangladesh
+          location: Gazipur 1702, Bangladesh
           date_start: '2019-02-20'
           date_end: '2019-05-20'
 
@@ -80,18 +80,19 @@ sections:
               
               <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
               <span style="font-size: 1.5em;">Chief Advisor</span>
-              * Pie Club (2024-Present), Department of Mathematics, Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj, Bangladesh.
+              * Pie Club (2024-Present), Department of Mathematics, Kishoreganj University, Kishoreganj 2300, Bangladesh.
 
               <span style="font-size: 1.5em;">Mentor</span>
-              * Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka, Bangladesh.
+              * Math Olympiad Team (2020-2021), Department of Basic Science, Primeasia University, Dhaka 1213, Bangladesh.
 
               <span style="font-size: 1.5em;">Executive Member</span>
-              * Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla, Bangladesh.
+              * Mathematics Club (2013-2017), Department of Mathematics, Comilla University, Cumilla 3506, Bangladesh.
  
               <span style="font-size: 1.5em;">Journal Reviewer</span>
               * <strong>Heliyon</strong>: Served as a reviewer for Heliyon, Elsevier journal.
               * <strong>International Journal of Modern Physics B</strong>: Served as a reviewer for International Journal of Modern Physics B, World Scientific.
               * <strong>Physics Open</strong>: Served as a reviewer for Current Research in Physics Open, Elsevier journal.
+              * <strong>Wiley</strong>: Served as a reviewer for Current Research in Wiley, Elsevier journal.
 
           url: ''
 
