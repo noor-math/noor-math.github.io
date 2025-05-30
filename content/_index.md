@@ -92,7 +92,7 @@ sections:
               * <strong>Heliyon</strong>: Served as a reviewer for Heliyon, Elsevier journal.
               * <strong>International Journal of Modern Physics B</strong>: Served as a reviewer for International Journal of Modern Physics B, World Scientific.
               * <strong>Physics Open</strong>: Served as a reviewer for Current Research in Physics Open, Elsevier journal.
-              * <strong>Wiley</strong>: Served as a reviewer for Current Research in Wiley, Elsevier journal.
+              * <strong>Abstract and Applied Analysis</strong>: Served as a reviewer for Current Research in Abstract and Applied Analysis, Wiley journal.
 
           url: ''
 
@@ -141,6 +141,10 @@ sections:
           icon_pack: fab
           name: Noor Alam
           link: 'https://web.facebook.com/noorcou06'
+        - icon: instagram
+          icon_pack: fab
+          name: Noor_inspro
+          link: 'https://web.instagram.com/noor_inspro'
     design:
       columns: '2'
 ---
