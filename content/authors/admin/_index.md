@@ -84,13 +84,16 @@ social:
     link: '/#contact'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/noor-alam-885591155/
+    link: https://www.linkedin.com/in/noorcou06/
   - icon: github
     icon_pack: fab
     link: https://github.com/noor-math
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=g47bl6YAAAAJ
+  - icon: id-badge
+    icon_pack: fas
+    link: https://orcid.org/0009-0000-0411-7087
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
