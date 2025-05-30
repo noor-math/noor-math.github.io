@@ -86,7 +86,7 @@ social:
     link: https://www.linkedin.com/in/noor-alam-885591155/
   - icon: orcid
     icon_pack: fab
-    link: 'https://orcid.org/0009-0000-0411-7087'
+    link: https://orcid.org/0009-0000-0411-7087
   - icon: github
     icon_pack: fab
     link: https://github.com/noor-math
