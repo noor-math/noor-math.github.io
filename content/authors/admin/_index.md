@@ -18,7 +18,7 @@ role: Lecturer of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kishoreganj University, Kishoreganj, Bangladesh 
+  - name: Kishoreganj University, Kishoreganj 2300, Bangladesh 
     url: https://math.kiu.ac.bd/viewprofile/4
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,10 +37,10 @@ interests:
 education:
   courses:
     - course: M.S. in Mathematics
-      institution: Comilla University, Cumilla, Bangladesh
+      institution: Comilla University, Cumilla 3506, Bangladesh
       year: 2018
     - course: B.Sc. in Mathematics
-      institution: Comilla University, Cumilla, Bangladesh
+      institution: Comilla University, Cumilla 3506, Bangladesh
       year: 2017
 
 # Skills
