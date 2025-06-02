@@ -37,6 +37,10 @@ We're an open source movement that depends on your support to stay online and th
 ## Demo image credits
 
 - [Unsplash](https://unsplash.com)
+## My CVs
+
+- [noor_resume_may_2025.pdf](https://github.com/noor-math/noor-math.github.io/blob/main/resume.pdf)
+- [noor_resume_may_2025.pdf](https://github.com/noor-math/noor-math.github.io/blob/main/noor_resume_may_2025.pdf)
 
 ## Latest news
 
