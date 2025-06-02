@@ -96,7 +96,7 @@ social:
     link: https://orcid.org/0009-0000-0411-7087
   - icon: cv
     icon_pack: ai
-    link: uploads/Resume_Updated_May_2025.pdf
+    link: uploads/noor_resume_may_2025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
