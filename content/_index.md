@@ -135,7 +135,7 @@ sections:
     content:
       title: Contact
       email: nooralam.cou@gmail.com
-      phone: +880 1680-979489
+#     phone: +880 1680-979489
       contact_links:
         - icon: facebook
           icon_pack: fab
