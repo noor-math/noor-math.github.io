@@ -106,6 +106,8 @@ I am an academic and researcher specializing in Mathematics, currently pursuing 
 
 I bring a diverse teaching background, having taught at Dhaka Commerce College, Primeasia University, and German University Bangladesh. My research interests include Applied Mathematics, Fluid Dynamics, Mathematical Physics, Partial Differential Equations, and Data Science. I have published my work in reputable international journals, contributing to solving complex mathematical problems and advancing the field.
 
-Beyond academics, I am passionate about inspiring future mathematicians. As the Chief Advisor of the Pie Club at KiU, I mentor students and prepare them for competitive events like the Math Olympiad. My academic achievements have been recognized through honors such as the NST Fellowship and university scholarships.
+Beyond academics, I am passionate about inspiring future mathematicians. I have mentored students in mathematics-related activities and helped prepare them for competitive events such as the Math Olympiad. My academic achievements have been recognized through honors such as the NST Fellowship and university scholarships.
 
 With experience in both teaching and research, I strive to make meaningful contributions to mathematics and education while expanding my expertise through doctoral research.
+
+
