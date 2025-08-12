@@ -1,6 +1,6 @@
 ---
 title: Started PhD in Applied Mathematics (Fall 2025)
-date: ''
+date: '2025-08-18'
 # Is this an unpublished draft?
 draft: false
 
