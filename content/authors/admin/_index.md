@@ -38,10 +38,13 @@ education:
   courses:
 education:
   courses:
-    - course: M.Sc. in Mathematics
+    - course: PhD in Applied Mathematics
+      institution: Texas Tech University, Texas, USA
+      year: August 2025 - Present
+    - course: MSc in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
       year: 2018
-    - course: B.Sc. in Mathematics
+    - course: BSc in Mathematics
       institution: Comilla University, Cumilla 3506, Bangladesh
       year: 2017
 # Skills
