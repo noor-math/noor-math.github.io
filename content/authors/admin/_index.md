@@ -96,16 +96,16 @@ social:
     link: https://orcid.org/0009-0000-0411-7087
   - icon: cv
     icon_pack: ai
-    link: uploads/noor_resume_may_2025.pdf
+    link: uploads/noor_resume_august_2025.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an accomplished academic and researcher specializing in Mathematics. I earned both my Bachelor of Science and Master of Science degrees in Mathematics from Comilla University, Cumilla, Bangladesh, where I excelled academically and ranked at the top of my class. Currently, I serve as a Lecturer in the Department of Mathematics at Kishoreganj University (KiU), Kishoreganj 2300, Bangladesh.
+I am an academic and researcher specializing in Mathematics, currently pursuing my PhD in Applied Mathematics at Texas Tech University, USA. I earned both my Bachelor of Science and Master of Science degrees in Mathematics from Comilla University, Cumilla, Bangladesh, graduating at the top of my class. I also serve as a Lecturer in the Department of Mathematics at Kishoreganj University (KiU), Kishoreganj 2300, Bangladesh (on study leave).
 
-I bring a diverse teaching background, having held positions at Dhaka Commerce College, Primeasia University, and German University Bangladesh. My passion for education is matched by my dedication to research in Applied Mathematics, Fluid Dynamics, Mathematical Physics, Partial Differential Equations, and Data Science. My work has been published in prestigious international journals, reflecting my contributions to solving complex mathematical problems and advancing the field.
+I bring a diverse teaching background, having taught at Dhaka Commerce College, Primeasia University, and German University Bangladesh. My research interests include Applied Mathematics, Fluid Dynamics, Mathematical Physics, Partial Differential Equations, and Data Science. I have published my work in reputable international journals, contributing to solving complex mathematical problems and advancing the field.
 
-Beyond academics, I am committed to inspiring the next generation of mathematicians. As the Chief Advisor of the Pie Club at KiU, I mentor students and prepare them for competitive events like the Math Olympiad. My academic excellence has been recognized through several honors, including the NST Fellowship and university scholarships.
+Beyond academics, I am passionate about inspiring future mathematicians. As the Chief Advisor of the Pie Club at KiU, I mentor students and prepare them for competitive events like the Math Olympiad. My academic achievements have been recognized through honors such as the NST Fellowship and university scholarships.
 
-With a strong foundation in both teaching and research, I continue to make meaningful contributions to the field of mathematics and education.
+With experience in both teaching and research, I strive to make meaningful contributions to mathematics and education while expanding my expertise through doctoral research.
