@@ -1,6 +1,6 @@
 ---
-title: Seeking PhD Opportunities (Fall 2025)
-date: '2025-02-01'
+title: Started PhD in Applied Mathematics (Fall 2025)
+date: '2025-08-18'
 # Is this an unpublished draft?
 draft: false
 
@@ -9,7 +9,7 @@ featured: false
 ---
 Hello, fellow researchers and academic mentors!
 
-I am actively seeking PhD opportunities where I can contribute to and deepen my understanding of Applied Mathematics. My background and experiences have solidified my passion for these fields, and I am eager to embark on a rigorous research journey that pushes the boundaries of knowledge in Mathematics.
+I am excited to share that I have recently started my PhD in Applied Mathematics at Texas Tech University. My research interests lie in exploring advanced topics in Applied Mathematics, Mathematical Physics, and Data Science. I look forward to contributing to impactful projects, collaborating with other researchers, and pushing the boundaries of mathematical knowledge.
 
 ## My Research Interests
 My primary research interests include: Applied Mathematics, Fluid Dynamics, Mathematical Physics, Partial Differential Equations. 
