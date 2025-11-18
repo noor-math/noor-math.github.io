@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-11-03T00:00:00Z'
-doi: 'https://onlinelibrary.wiley.com/doi/10.1002/mma.70251'
+doi: 'https://doi.org/10.1002/mma.70251'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
