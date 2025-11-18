@@ -23,7 +23,7 @@ main:
     url: '#publications'
     weight: 50
   - name: CV
-    url: uploads/resume.pdf
+    url: uploads/noor_resume_december_2025.pdf
     weight: 70
   - name: Posts
     url: '#posts'
