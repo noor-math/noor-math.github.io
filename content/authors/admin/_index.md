@@ -18,7 +18,7 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Mathematics & Statistics, Texas Tech University 
+  - name: Department of Mathematics & Statistics, Texas Tech University, USA 
     url: https://www.depts.ttu.edu/math/
 
 # Short bio (displayed in user profile at end of posts)
