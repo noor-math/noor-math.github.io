@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Lecturer of Mathematics
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kishoreganj University, Kishoreganj 2300, Bangladesh 
-    url: https://math.kiu.ac.bd/viewprofile/4
+  - name: Department of Mathematics & Statistics, Texas Tech University 
+    url: https://www.depts.ttu.edu/math/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Nonlinear Dynamics, Time Fractional PDEs, Soliton Theory, Plasma Physics, Computational Fluid Dynamics, and Data Science.
