@@ -74,9 +74,10 @@ sections:
           description: |2-
 
               <span style="font-size: 1.5em;">**Scholarships:**</span>
-              * Awarded to facilitate the M.Sc. dissertation from the Ministry of Science and Technology of Bangladesh.
-              * Received university yearly scholarship for outstanding results.
-              * Received scholarship for achieving the top position in the undergraduate entrance exam.
+              * Received a research grant from the University Grants Commission of Bangladesh.
+              * Awarded to support the M.Sc. dissertation from the Ministry of Science and Technology of Bangladesh.
+              * Received the university’s yearly scholarship for outstanding academic performance.
+              * Awarded the scholarship for achieving the top position in the undergraduate entrance exam.
               
               <span style="font-size: 1.5em;">**Academic Contributions:**</span> <br>
               <span style="font-size: 1.5em;">Chief Advisor</span>
