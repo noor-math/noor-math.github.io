@@ -1,24 +1,24 @@
 ---
-title: 'Novel dynamics of the fractional KFG equation through the unified and unified solver schemes with stability and multistability analysis'
+title: 'Soliton, stability, multistability, and diverse tools for identifying chaos in a nonlinear model with two modified methods'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Tarmizi Usman
   - admin
   - Mohammad Safi Ullah
-  - Taher A Nofal  
-  - Hamdy M Ahmed
-  - Karim K Ahmed
-  - Mahmoud A AL-Nahhas
+  - Miguel Vivas-Cortez
+  - Muhammad Abbas
+  - Shailendra Singh
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-10-19T00:00:00Z'
-doi: 'https://doi.org/10.1515/nleng-2024-0034'
+date: '2026-01-14T00:00:00Z'
+doi: 'https://doi.org/10.1515/nleng-2025-0180'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
@@ -32,13 +32,14 @@ publication_types: ['article-journal']
 publication: Nonlinear Engineering, De Gruyter, October, 2024
 publication_short: Nonlinear Engineering, De Gruyter, October, 2024
 
-abstract: The nonlinear fractional Klein–Fock–Gordon (KFG) equation represents an advanced...
+abstract: This research employs two analytical techniques,
+the modified...
 # Summary. An optional shortened abstract.
 # summary:  This paper proposed an automated classification system for paper reviews. Here, the Bi-GRU-LSTM-CNN model attained the highest accuracy of 95.33%.
 
 tags:
-  - Fractional KFG Equation
-  - Unified and Unified Solver Methods
+  - Zoomeron Model
+  - Two Modified Methods
 
 # Display this page in the Featured widget?
 featured: true
@@ -48,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.degruyter.com/document/doi/10.1515/nleng-2024-0034/html'
+url_pdf: 'https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0180/html'
 # url_code: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_dataset: 'https://figshare.com/articles/dataset/An_Empirical_Study_of_Deep_Learning_Models_for_Vulnerability_Detection/20791240'
 # url_poster: ''
