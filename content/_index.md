@@ -74,6 +74,7 @@ sections:
           description: |2-
 
               <span style="font-size: 1.5em;">**Scholarships:**</span>
+              * Received the Ronald M. Anderson Graduate Mathematics Fellowship from Texas Tech University.
               * Received a research grant from the University Grants Commission of Bangladesh.
               * Awarded to support the M.Sc. dissertation from the Ministry of Science and Technology of Bangladesh.
               * Received the university’s yearly scholarship for outstanding academic performance.
